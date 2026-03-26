@@ -9,6 +9,6 @@ int main()
     printf("\n\nRaio = %f", circle.getRadius());
     printf("\nÁrea = %f", circle.getArea());
     printf("\nPerímetro = %f", circle.getPerimeter());
-
+    
     return 0
 }
